@@ -89,3 +89,5 @@ Thumbs.db
 include/OpenImageDenoise/config.h
 core/export.linux.map
 core/export.macos.map
+
+training/data
